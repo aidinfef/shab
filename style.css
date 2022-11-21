@@ -23,7 +23,6 @@ body {
   padding-top: 10px;
   border-radius: 50%;
 }
-
 .blue{
-  color: aliceblue;
+  color-interpolation-filters: auto
 }
