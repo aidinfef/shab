@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+.box{
+  border-radius: 10px;
+  
+}
+.container{
+  border: 10px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.188);
+  margin: 40px;
+}
+.box{
+  border-radius: 10px;
+  background-color: blue;
+}
