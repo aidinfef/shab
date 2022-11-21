@@ -25,4 +25,8 @@ body {
 }
 .blue{
   color-interpolation-filters: auto
+
+}
+ul{
+  padding: 40;
 }
