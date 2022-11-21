@@ -1,16 +1,25 @@
-*{
+* {
   box-sizing: border-box;
 }
-.box{
-  border-radius: 10px;
-  
+body {
+  margin: 0;
 }
-.container{
-  border: 10px;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.188);
-  margin: 40px;
+.con-1 {
+  margin: 70px 70px 70px 70px;
+  background-color: antiquewhite;
+  border-radius: 20px;
+  padding-left: 50px;
+  padding-top: 30px;
+  box-shadow: 3px 3px 10px;
 }
-.box{
-  border-radius: 10px;
-  background-color: blue;
+.saidebar {
+  background-color: rgb(0, 183, 255);
+  width: 200px;
+  height: 400px;
+  border-radius: 20px;
+}
+.saidebar img {
+  padding-left: 10px;
+  padding-top: 10px;
+  border-radius: 50%;
 }
